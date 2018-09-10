@@ -9,7 +9,7 @@ document.getElementById("ts").innerHTML="Hello"
 ```
 
 ```html
-<h1>这是一个普通的h1标签<h1>
+<h1>这是一个普通的h1标签aaaa<h1>
 ```
 
 - 表格
