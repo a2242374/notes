@@ -22,4 +22,4 @@ baz | baz  | baz
 
 -插入链接
 
-[自定义table](https://gitee.com/liverpooler17/functions/blob/master/pages/自定义table.md#)
+[自定义table](https://github.com/a2242374/notes/blob/master/pages/%E6%A8%A1%E6%8B%9Ftable.md)
