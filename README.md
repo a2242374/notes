@@ -2,7 +2,7 @@
 
 #### Markdown常用语法
 
--代码段
+- 代码段
 
 ```javascript
 document.getElementById("ts").innerHTML="Hello"
